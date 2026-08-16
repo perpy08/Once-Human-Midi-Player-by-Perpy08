@@ -36,7 +36,7 @@ Made by Perpy08.
 
 ## How to use
 
-1. Launch Once Human and sit at an in-game **Piano** or **Guitar**.
+1. Launch Once Human and sit at an in-game **Piano** or **Guitar** [<u>**Download Here**</u>].
 2. Run `OHMidiPlayer.exe` and approve the Windows administrator prompt
    (see below).
 3. Pick the matching mode (**Piano Mode** / **Guitar Mode**).
