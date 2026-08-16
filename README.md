@@ -88,11 +88,7 @@ is dangerous.
   does not connect to the internet; it does not install anything; it does
   not modify anything outside its own settings file (stored in
   `%APPDATA%\OHMidiPlayer\`).
-- **The entire source code is open and available** at
-  **https://github.com/perpy08/OHMidiPlayer** — you (or anyone) can read
-  every line, audit what it does, and build the `.exe` yourself from
-  source using the build instructions in the repo. The published `.exe`
-  is built straight from that code with no changes.
+
 
 ### How to run it anyway
 
